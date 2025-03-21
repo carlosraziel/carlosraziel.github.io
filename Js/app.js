@@ -2,7 +2,7 @@ let Titulo = document.title;
 
 window.addEventListener('blur', () => {
     Titulo = document.title;
-    document.title = "Para ti amiguita :)";
+    document.title = "Para ti amiguita linda :)";
 })
 
 window.addEventListener('focus', () => {
